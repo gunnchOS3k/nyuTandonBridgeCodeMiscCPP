@@ -3,6 +3,7 @@ Author: Edmund Gunn Jr
 Device: G-Phone google pixel via codespaces
 Date: 4/2/2023
 Module: 3
+Purpose: Add two integers from user input then adds them together
 */
 
 #include <iostream>
