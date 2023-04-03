@@ -10,9 +10,28 @@ Purpose: Write a program  that read the user the number of days they traveled. T
 using namespace std;
 
 int main(){
+<<<<<<< HEAD
     int daysEntered;
 
     cout<<
+=======
+    int daysEntered, weeks, days;
+
+    cout<<"Please enter number of days you traveled"<<endl;
+    cin>>daysEntered;
+
+    weeks = daysEntered / 7;
+    days = daysEntered % 7;
+ 
+    cout<<weeks<<" weeks and 
+    " << days<< " days "<< endl;
+
+
+
+
+
+
+>>>>>>> e184f4d (	new file:   hwcatchup4)
 
 
     return 0;
