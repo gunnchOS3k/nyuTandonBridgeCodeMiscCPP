@@ -3,7 +3,7 @@ Author: Edmund Gunn Jr
 Device: G-Phone Google Pixel
 Date: 4/2/2023
 Module: 4.1
-Purpose: 
+Purpose: In Class getting familar with the int data type
 */
 
 #include <iostream>
