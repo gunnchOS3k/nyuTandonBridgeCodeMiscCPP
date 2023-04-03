@@ -23,8 +23,7 @@ int main(){
     weeks = daysEntered / 7;
     days = daysEntered % 7;
  
-    cout<<weeks<<" weeks and 
-    " << days<< " days "<< endl;
+    cout<<weeks<<" weeks and " << days<< " days "<< endl;
 
 
 
